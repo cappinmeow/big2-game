@@ -1,0 +1,23 @@
+{
+  "weights": {
+    "play_more_cards": 32.9524,
+    "low_power": 11.1055,
+    "high_power_when_danger": 13.8517,
+    "finish_round": 130.1468,
+    "keep_two_early": 87.1586,
+    "keep_high_card_early": 29.511,
+    "avoid_break_pair": 31.6263,
+    "avoid_break_triple": 44.373,
+    "five_card_bonus": 27.4005,
+    "empty_table_combo_bonus": 21.78,
+    "block_opponent": 81.6475,
+    "randomness": 2.5
+  },
+  "metadata": {
+    "training_games": 10000,
+    "num_players": 3,
+    "best_score": 78.93541666666667,
+    "population": 12,
+    "games_per_candidate": 12
+  }
+}
