@@ -1,2 +1,4 @@
 # big2-game
-A Python Big 2 card game project with GUI and AI players.
+You can directly download the game at Big2.exe
+
+Try and challenge yourself! Have fun:D
